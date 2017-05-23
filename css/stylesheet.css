@@ -1,0 +1,18 @@
+body {
+	background-image: url("/img/background2.jpg");
+	padding-bottom: 70px;
+}
+
+.row .thumbnail {
+	background-color: #f2f2f2;
+}
+
+.thumbnail h4 {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px; 
+}
+
+.container p {
+	color: white;
+}
